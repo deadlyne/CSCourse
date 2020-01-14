@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CSCourse.ConsoleApp.Tasks;
+using System;
 
 namespace CSCourse.ConsoleApp
 {
@@ -6,9 +7,7 @@ namespace CSCourse.ConsoleApp
     {
         static void Main(String[] args)
         {
-            Console.WriteLine("Hello, World!");
-
-            Console.WriteLine("Bye, World!");
+            
         }
     }
 }
