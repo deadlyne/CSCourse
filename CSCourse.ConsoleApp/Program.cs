@@ -6,7 +6,9 @@ namespace CSCourse.ConsoleApp
     {
         static void Main(String[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello, World!");
+
+            Console.WriteLine("Bye, World!");
         }
     }
 }
